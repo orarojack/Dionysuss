@@ -3,7 +3,6 @@
 ![image](https://github.com/Elliott-Chong/Dionysuss/assets/77007117/5419b27c-e6a3-4da6-9902-caf140536652)
 
 
-View video demo here: https://youtu.be/_7XDrqMS18g
 
 ## Inspiration ✨
 
@@ -68,4 +67,3 @@ In the future, we plan to expand Dionysus's capabilities further. We aim to:
 
 We're excited about the potential of Dionysus and the positive impact it can have on the developer community. Stay tuned for upcoming features and improvements!
 
-In the demo video I used the audio from the following video: https://www.youtube.com/watch?v=HKdOnFHB4Sg
